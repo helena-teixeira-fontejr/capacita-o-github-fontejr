@@ -1,0 +1,1 @@
+Add: É o comando para adicionar um arquivo no controle de versão
