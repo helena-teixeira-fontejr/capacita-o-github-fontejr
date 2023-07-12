@@ -4,3 +4,4 @@ Commit: São as versões dos códigos
 Pull: É o comando que traz as atualizações do servidor para a máquina local.
 Push: É o comando para enviar as versões de códigos para nuvem
 Clone: Copiar um repositório
+Pull request: É uma solicitação de aprovação do meu commit 
