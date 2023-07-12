@@ -1,2 +1,3 @@
 Add: É o comando para adicionar um arquivo no controle de versão
 Status: É o comando para saber quais arquivos foram incluídos no controle de versão ou não.
+Commit: São as versões dos códigos
